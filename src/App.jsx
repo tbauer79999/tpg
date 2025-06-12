@@ -16,7 +16,7 @@ const userPrompts = {
 GOAL: Schedule a quick intro call.  
 END with: Would you be open to a quick 20-minute call next week?
 CRITICAL: CREATE THIS IN AN EMAIL FORMAT.
-
+CRITICAL: Make sure you mention their role.
 IMPORTANT. Insert paragraph breaks between ideas to improve readability. `,
 
   2: `Research {Prospect’s LinkedIn} and {Company name} + {website}. Based on the prospect’s role, company size, and publicly available information (e.g., LinkedIn activity, press releases, interviews), identify specific security challenges or business priorities they might be facing. Then, write a concise value-based message (max 3 sentences) that clearly maps those insights to how the company LeanTaaS and their product iQueue Surgical center can help. The message should be highly personalized and actionable.
